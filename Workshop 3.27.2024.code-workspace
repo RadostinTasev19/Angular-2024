@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Workshop 3.22.2024",
+			"path": "Angular 2024/Workshop 3.22.2024"
+		},
+		{
+			"name": "workshop-components",
+			"path": "Angular 2024/Routing Workshop  3.17.2024/views/workshop-components"
+		},
+		{
+			"name": "views",
+			"path": "Angular 2024/Workshop Components exercies 3.09.2024/resources/views"
+		},
+		{
+			"name": "Rest-api",
+			"path": "Angular 2024/Workshop Components exercies 3.09.2024/Rest-api"
+		}
+	],
+	"settings": {}
+}
